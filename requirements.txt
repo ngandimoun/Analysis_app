@@ -7,7 +7,6 @@ pandas
 textblob
 yfinance
 datetime
-os
 glob
 seaborn
 cufflinks
