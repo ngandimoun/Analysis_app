@@ -13,5 +13,4 @@ cufflinks
 wordcloud
 random2
 Pillow
-plotly.offline
 nltk
