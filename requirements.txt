@@ -12,6 +12,6 @@ seaborn
 cufflinks
 wordcloud
 random2
-PIL
+Pillow
 plotly.offline
 nltk
