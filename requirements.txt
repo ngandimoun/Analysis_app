@@ -7,7 +7,7 @@ pandas
 textblob
 yfinance
 datetime
-glob
+glob2
 seaborn
 cufflinks
 wordcloud
