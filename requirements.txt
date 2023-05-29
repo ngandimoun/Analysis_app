@@ -1,0 +1,16 @@
+#requirements.txt
+
+streamlit
+pandas
+plotly.express 
+os
+openai
+matplotlib.pyplot 
+plotly.graph_objects 
+numpy 
+nltk
+PIL
+seaborn 
+re
+string
+logging
